@@ -3,10 +3,10 @@ but the design and the functions were made by me alone and the functions were ma
 the knowladge from youtube tutorials on some parts and stackoverflow's questions-answers.</h1>
 
 ### Overview
--[Overview] (#overview)
--[Technologies] (#techList)
--[screenshot] (#screenshot)
--[Author] (#author)
+- [Overview] (#overview)
+- [Technologies] (#techList)
+- [screenshot] (#screenshot)
+- [Author] (#author)
 
 
 ### Technologies
